@@ -2,7 +2,7 @@
 
 ## Informações do Projeto
 
-**Disciplina:** Arquitetura Java [25E4_2] 
+**Disciplina:** Arquitetura Java [25E4_2]
 **Aluno:** Paulo Almeida  
 
 ## Resumo do Projeto
